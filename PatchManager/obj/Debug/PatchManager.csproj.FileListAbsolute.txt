@@ -1,0 +1,11 @@
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.Form1.resources
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.Properties.Resources.resources
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.csproj.GenerateResource.Cache
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\bin\Debug\PatchManager.exe.config
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\bin\Debug\PatchManager.exe
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\bin\Debug\PatchManager.pdb
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.exe
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.pdb
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.csprojResolveAssemblyReference.cache
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.message_box.resources
+C:\Users\Retail\Documents\Visual Studio 2015\Projects\PatchManager\PatchManager\obj\Debug\PatchManager.goadmin.resources

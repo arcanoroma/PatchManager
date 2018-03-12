@@ -1,0 +1,12 @@
+Title = "ENTER HERE THE NAME OF APPLICATION AND THE VERSION"
+Author = "YOUR NAME HERE"
+Icon = "%%ICON%%"
+Log = "Verbose"
+#GoAdmin
+
+# ----- HERE BEGIN THE PATCHING PROCEDURE-----
+
+
+
+# --------------------------------------------
+EndTitle
