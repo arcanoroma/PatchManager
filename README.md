@@ -4,7 +4,7 @@ A universal application to patch in memory or in a file
 This application arises from the need, when doing the crack of an application, not to have to program a crack (a permanent change on a file) or a path (a change in memory, after running the program).
 Once the crack is done, you need to write a script.
 
-Contrary to the patches of the crack that can be found on the net, Patch
+Unlike the patches of the cracks that can be found on the network, PatchManager uses a script, a text file that contains all the instructions step by step on how to perform the in-memory or file format.
 
 The script, containing the pseudo instructions for the applications, patch_list.txt is in the executable folder
 
